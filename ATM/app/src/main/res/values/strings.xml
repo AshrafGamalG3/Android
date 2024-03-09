@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="view_balance">View Balance</string>
+    <string name="withdraw_funds">Withdraw Funds</string>
+    <string name="deposit_funds">Deposit Funds</string>
+    <string name="cvv">cvv</string>
+    <string name="visa">visa</string>
+    <string name="_131313">131313</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057492099480",
+    "project_id": "atmproject-1182b",
+    "storage_bucket": "atmproject-1182b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057492099480:android:dc92a80999d2f128554bed",
+        "android_client_info": {
+          "package_name": "com.example.atm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASC72zsWYSsiM6czozyeHOELxWm4licdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
